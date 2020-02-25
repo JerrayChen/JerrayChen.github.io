@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './reset.css';
+import Dashboard from './Components/Dashboard/Dashboard';
+import { HashRouter } from 'react-router-dom'
 
 function App() {
   return (
     <div className="App">
-      It's nice to meet you!
+      <HashRouter>
+        <Dashboard />
+      </HashRouter>
     </div>
   );
 }

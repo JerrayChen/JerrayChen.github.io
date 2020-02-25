@@ -1,0 +1,30 @@
+nav{
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #061826;
+}
+nav ul{
+    display: flex;
+    width: 500px;
+    justify-content: space-around;
+}
+
+body{
+    background-color: #0471A6;
+    color: #061826;
+    font-size: 22px;
+}
+
+a{
+    color: #89AAE6;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 26px;
+}
