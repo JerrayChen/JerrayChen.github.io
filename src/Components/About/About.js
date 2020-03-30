@@ -9,11 +9,13 @@ class About extends Component {
             <div>
                 <h1>About me</h1>
                 <p>
-                    Accurateness and cautiousness are the key traits that I have taken away from mathematics.
-    I am always aware of potential problems and am cautious to keep an eye out for those problems.
-    I have a strong passion for developing programs. With logic from math, I can handle most situations within the requirements of programs. Math has also aspired me to be perfect.
-    I love to find small mistakes that could have led to big failure. It brings me a sense of accomplishment.
-    I have participated and handled many program development projects related to duty-free warehouse systems and completed the mission objectives. Working with others and coordinating resources are my talents.
+                    Though my major was mathematics, I love and enjoy coding after I learned Python and VPython when I was in the University.
+                    When I realized, I'm already a web developer.
+                    Still, on the path of improving my programming skill, which is never end, 
+                    I feel joyful and find my evolution everyday.
+                    When I'm not coding, I love to pet my cats, listen to music, play board games/video games, and make food.
+                    They also trigger me to make two food related projects and a Pokemon project.
+                    I'm happy to use new acquired skills to build up these projects.
                 </p>
             </div>
         )
