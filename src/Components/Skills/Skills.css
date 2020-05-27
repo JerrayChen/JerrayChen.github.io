@@ -1,0 +1,28 @@
+
+.skill-wrapper{
+    width: 1024px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* background-color: rosybrown; */
+}
+
+section{
+    width: 300px;
+    height: 150px;
+    /* border: 1px red solid; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+span{
+    font-size: 28px;
+    margin: auto;
+}
+
+i{
+    font-size: 96px;
+    margin: auto;
+}

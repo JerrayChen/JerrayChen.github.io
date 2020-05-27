@@ -3,3 +3,12 @@ img{
     max-width: 275px;
     margin: 10px;
 }
+
+.project-wrapper{
+    width: 1024px;
+    margin: auto;
+    /* background-color: rosybrown; */
+}
+.icon{
+    font-size: 48px;
+}

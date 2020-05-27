@@ -8,10 +8,9 @@ class Contact extends Component{
         return (
             <div>
                 <h1>Contact me</h1>
-                <ul>
-                    <li><a href='https://www.linkedin.com/in/che-jui-chen/'>Linkedin</a></li>
-                    <li><a href='mailto:cchejui@gmail.com'>Email</a></li>
-                </ul>
+                <a href='https://github.com/JerrayChen' target="_blank"><i class="fab fa-github-square"></i></a>
+                <a href='https://www.linkedin.com/in/che-jui-chen/' target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href='mailto:cchejui@gmail.com' target="_blank"><i class="far fa-envelope"></i></a>
             </div>
         )
     }
