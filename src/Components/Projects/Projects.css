@@ -1,14 +1,33 @@
 img{
-    max-height: 150px;
-    max-width: 275px;
+    height: 280px;
+    width: 500px;
     margin: 10px;
 }
 
 .project-wrapper{
     width: 1024px;
     margin: auto;
-    /* background-color: rosybrown; */
 }
 .icon{
     font-size: 48px;
 }
+
+.project-header{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.project-title{
+    font-size: 36px;
+}
+
+.icon{
+    margin-left: 15px;
+}
+
+.project-info{
+    width: 1000px;
+}
+
