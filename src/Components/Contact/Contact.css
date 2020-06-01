@@ -1,0 +1,24 @@
+.contact-wrapper{
+    width: 1024px;
+    margin: auto;
+}
+.contact-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact-icon{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.contact-resume{
+    margin-top: 50px;
+    font-size: 30px;
+    text-align: center;
+}
+.contact-wrapper a{
+    color: #7A5C61;
+    text-decoration: none;
+}

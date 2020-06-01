@@ -6,7 +6,7 @@ class About extends Component {
     }
     render() {
         return (
-            <div>
+            <div className='about-wrapper'>
                 <h1>About me</h1>
                 <p>
                     Though my major was mathematics, I love and enjoy coding after I learned Python and VPython when I was in the University.

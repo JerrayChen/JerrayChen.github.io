@@ -8,6 +8,12 @@ img{
     width: 1024px;
     margin: auto;
 }
+
+.project-wrapper a{
+    color: #7A5C61;
+    text-decoration: none;
+}
+
 .icon{
     font-size: 48px;
 }
@@ -31,3 +37,10 @@ img{
     width: 1000px;
 }
 
+.project-info p{
+    margin-top: 10px;
+}
+
+.award{
+    font-weight: bold;
+}

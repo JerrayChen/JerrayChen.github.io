@@ -42,7 +42,22 @@ class Projects extends Component {
                         </a>
                     </section>
                     <section className='project-info'>
-                        A mobile-base app that user can buy homemade food
+                        <p>
+                            Personal Project
+                        </p>
+                        <p>
+                            A mobile-base app that user can buy homemade food.
+                            It shows nearby home cooks (sellers), their available meals, and available time slots on the map for interested buyers using Google Maps API.
+                        </p>
+                        <p>
+                            Developing time: two weeks
+                        </p>
+                        <p className='award'>
+                            Awarded Best Business Solution by instructors.
+                        </p>
+                        <p>
+                            Technologies: ReactJS, NodeJS, Express, PostgreSQL, Google Maps API, and Stripe API. 
+                        </p>
                     </section>
                 </p>
                 <Carousel responsive={responsive}>
@@ -63,7 +78,18 @@ class Projects extends Component {
                         </a>
                     </section>
                     <section className='project-info'>
-                        A meal planning website that user can manage recipes, and generate grocery lists.
+                        <p>
+                            Group Project
+                        </p>
+                        <p>
+                            A meal planning website that user can manage recipes, weekly meal planning, reviewing nutritions, and grocery lists.
+                        </p>
+                        <p>
+                            Developing time: two weeks
+                        </p>
+                        <p>
+                            Technologies: ReactJS, NodeJS, Express, PostgreSQL, Sass, FullCalendarJS, and AntDesign. 
+                        </p>
                     </section>
                 </p>
                 <Carousel responsive={responsive}>
@@ -82,7 +108,18 @@ class Projects extends Component {
                         </a>
                     </section>
                     <section className='project-info'>
-                        A website for trading Pokemon
+                        <p>
+                            Personal Project
+                        </p>
+                        <p>
+                            A website for trading Pokemon
+                        </p>
+                        <p>
+                            Developing time: four days
+                        </p>
+                        <p>
+                            Technologies: ReactJS, NodeJS, Express. 
+                        </p>
                     </section>
                 </p>
                 <Carousel responsive={responsive}>
