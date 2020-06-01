@@ -8,6 +8,7 @@ class About extends Component {
         return (
             <div className='about-wrapper'>
                 <h1>About me</h1>
+                <img className='portrait' src="/files/head.jpeg" alt="portrait" />
                 <p>
                     Though my major was mathematics, I love and enjoy coding after I learned Python and VPython when I was in the University.
                     When I realized, I'm already a web developer.

@@ -12,3 +12,11 @@
     font-size: 24px;
     line-height: 1.5;
 }
+
+.portrait{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}
